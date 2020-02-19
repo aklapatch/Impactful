@@ -1,5 +1,5 @@
 # Quotes
->Why the appetite for territory? Do you not know where your next meal is coming from? Do you not have a roof over your goddamn head?... Where have we so screwed up with a generation if not a society where we go people who are so extrinsically motivated?...  I mean, How is integrity not the only thing you have!
+>Why the appetite for territory? Do you not know where your next meal is coming from? Do you not have a roof over your goddamn head?... Where have we so screwed up with a generation if not a society where we got people who are so extrinsically motivated?...  I mean, How is integrity not the only thing you have!
 
 Bryan Cantrill (https://youtu.be/bNfAAQUQ_54?t=2470)
 
