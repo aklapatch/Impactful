@@ -14,18 +14,23 @@ by Paul Graham
 *The Bible*
 
 *Mere Christianity* 
+
 by C.S. Lewis
 
 *The Screwtape Letters*
+
 by C.S. Lewis
 
 *My Utmost for his Highest* 
+
 by Oswald J. Sanders
 
 *True Spirituality* 
+
 by Chip Ingram
 
 *The Complete Book of Discipleship* 
+
 by Bill Hull
 
 *Side by Side* 
