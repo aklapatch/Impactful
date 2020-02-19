@@ -1,6 +1,8 @@
 # Articles
 In no particular order
 
+[How to Improve Your Productivity as a Working Programmer](https://malisper.me/how-to-improve-your-productivity-as-a-working-programmer/)<br/>
+
 [Avoid rewriting a legacy system from scratch, by strangling it](https://understandlegacycode.com/blog/avoid-rewriting-a-legacy-system-from-scratch-by-strangling-it/)<br/>
 The best way to deal with legacy code IMO.
 
