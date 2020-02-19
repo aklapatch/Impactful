@@ -1,7 +1,7 @@
 # Quotes
-"The gospel, if it is really believed, removes neediness--the need to be constantly respected, appreciated, and well regarded; the need to have everything in your life go well; the need to have power over others. All of these great, deep needs continue to control you only because the concept of the glorious God delighting in you with all His being is just that--a concept and nothing more.
+>The gospel, if it is really believed, removes neediness--the need to be constantly respected, appreciated, and well regarded; the need to have everything in your life go well; the need to have power over others. All of these great, deep needs continue to control you only because the concept of the glorious God delighting in you with all His being is just that--a concept and nothing more.
 
-Our hearts don't believe it, so they operate in default mode (non-gospel mode). Paul is saying that if you want to really change, you must let the gospel teach you--that is to train, discipline, coach you--over a period of time. You must let the gospel argue with you . You must let the gospel sink down deeply into your heart, until it changes you motivation and views and attitudes."
+>Our hearts don't believe it, so they operate in default mode (non-gospel mode). Paul is saying that if you want to really change, you must let the gospel teach you--that is to train, discipline, coach you--over a period of time. You must let the gospel argue with you . You must let the gospel sink down deeply into your heart, until it changes you motivation and views and attitudes.
 
 Tim Keller, from *Gospel in Life*
 
@@ -13,30 +13,25 @@ by Paul Graham
 # Books
 *The Bible*
 
-*Mere Christianity* 
-
+*Mere Christianity* <br/>
 by C.S. Lewis
 
-*The Screwtape Letters*
-
+*The Screwtape Letters*<br/>
 by C.S. Lewis
 
-*My Utmost for his Highest* 
-
+*My Utmost for his Highest*<br/> 
 by Oswald J. Sanders
 
-*True Spirituality* 
-
+*True Spirituality*<br/>
 by Chip Ingram
 
-*The Complete Book of Discipleship* 
-
+*The Complete Book of Discipleship* <br/>
 by Bill Hull
 
-*Side by Side* 
+*Side by Side* <br/>
 by Edward T. Welch
 
-*Gospel in Life* 
+*Gospel in Life* <br/>
 by Tim Keller
 
 # Videos
